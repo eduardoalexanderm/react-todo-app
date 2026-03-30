@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/eduardoalexanderm/react-todo-app.git",
+  "homepage": "https://eduardoalexanderm.github.io/react-todo-app",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
